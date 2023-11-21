@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Machine Learning project aimed at predicting house prices in Bangalore city. We have employed Linear Regression, a fundamental algorithm in regression analysis, to estimate the prices of houses based on various features such as size, area, location, availability, number of bathrooms, balconies, and more. This project takes you through the entire data science workflow, from data cleaning and exploration to feature engineering and model building.
+This repository contains a Machine Learning project aimed at predicting house prices in Bangalore city. I have employed Linear Regression, a fundamental algorithm in regression analysis, to estimate the prices of houses based on various features such as size, area, location, availability, number of bathrooms, balconies, and more. This project takes you through the entire data science workflow, from data cleaning and exploration to feature engineering and model building.
 
 ## Motivation
 
